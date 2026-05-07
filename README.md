@@ -36,7 +36,7 @@ The solution combines data analysis, visualization, and business insights throug
 <img width="1237" height="697" alt="Page-1" src="https://github.com/user-attachments/assets/554a0369-c032-4a3d-befb-b93572bd1091" />
 
 
--Total Employees & Attrition Count
+-Total Employees & Attrition Counts
 
 -Attrition Rate (%)
 
