@@ -6,7 +6,7 @@ This project focuses on analyzing employee attrition patterns using HR data to h
 
 The solution combines data analysis, visualization, and business insights through an interactive Power BI dashboard, enabling HR leaders to make data-driven retention decisions.
 
-🎯 Business Objectives :-
+🎯 Business Objectives :
 
 -Identify key drivers of employee attrition
 
