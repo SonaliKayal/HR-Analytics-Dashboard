@@ -18,7 +18,7 @@ The solution combines data analysis, visualization, and business insights throug
 
 -Provide actionable HR insights for retention strategies
 
-🛠 Tools & Technologies
+🛠 Tools & Technologies :
 
 -Power BI – Dashboard design & DAX calculations
 
